@@ -1,0 +1,100 @@
+New York
+Los Angeles
+Chicago
+Miami
+Dallas
+Philadelphia
+Houston
+Washington
+Atlanta
+Boston
+Phoenix
+Seattle
+San Francisco
+Detroit
+San Diego
+Minneapolis
+Tampa
+Denver
+Brooklyn
+Queens
+Baltimore
+Riverside
+St. Louis
+Las Vegas
+Portland
+San Antonio
+Sacramento
+San Jose
+Orlando
+Cleveland
+Pittsburgh
+Cincinnati
+Manhattan
+Austin
+Kansas City
+Indianapolis
+Columbus
+Virginia Beach
+Charlotte
+Bronx
+Milwaukee
+Providence
+Jacksonville
+Salt Lake City
+Nashville
+Memphis
+Richmond
+New Orleans
+Raleigh
+Louisville
+Oklahoma City
+Bridgeport
+Buffalo
+Hartford
+Fort Worth
+Tucson
+El Paso
+Honolulu
+Omaha
+McAllen
+Albuquerque
+Birmingham
+Dayton
+Rochester
+Sarasota
+Fresno
+Allentown
+Tulsa
+Concord
+Cape Coral
+Springfield
+Colorado Springs
+Charleston
+Grand Rapids
+Mission Viejo
+Albany
+Knoxville
+Baton Rouge
+Bakersfield
+Ogden
+New Haven
+Columbia
+Akron
+Provo
+Worcester
+Mesa
+Palm Bay
+Toledo
+Brookhaven
+Murrieta
+Wichita
+Des Moines
+Staten Island
+Long Beach
+Greenville
+Little Rock
+Harrisburg
+Denton
+Madison
+Reno
